@@ -12,7 +12,7 @@ React Native, Flexbox, Node.js, Express, Knex, Postman, XCode, and Javascript
 * npm install 
 
 ### GitHub Repos
-* Native App: https://github.com/justcallmebeef/nativeCapstoneProject
+* Native App: https://github.com/justcallmebeef/CapstoneProjectNative
 * Database: https://github.com/justcallmebeef/CapstoneProjectBE
 
 ## Author
